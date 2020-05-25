@@ -1,0 +1,98 @@
+<PurchaseOrders>
+ <PurchaseOrder PoNum="5000" OrderDate="2006-02-18" Status="Unshipped">
+  <item>
+   <partid>100-100-01</partid>
+   <name>Snow Shovel, Basic 22 inch</name>
+   <quantity>3</quantity>
+   <price>9.99</price>
+  </item>
+  <item>
+   <partid>100-103-01</partid>
+   <name>Snow Shovel, Super Deluxe 26 inch</name>
+   <quantity>5</quantity>
+   <price>49.99</price>
+  </item>
+ </PurchaseOrder>
+ <PurchaseOrder PoNum="5001" OrderDate="2005-02-03" Status="Shipped">
+  <item>
+   <partid>100-101-01</partid>
+   <name>Snow Shovel, Deluxe 24 inch</name>
+   <quantity>1</quantity>
+   <price>19.99</price>
+  </item>
+  <item>
+   <partid>100-103-01</partid>
+   <name>Snow Shovel, Super Deluxe 26 inch</name>
+   <quantity>2</quantity>
+   <price>49.99</price>
+  </item>
+  <item>
+   <partid>100-201-01</partid>
+   <name>Ice Scraper, Windshield 4 inch</name>
+   <quantity>1</quantity>
+   <price>3.99</price>
+  </item>
+ </PurchaseOrder>
+ <PurchaseOrder PoNum="5002" OrderDate="2004-02-29" Status="Shipped">
+  <item>
+   <partid>100-100-01</partid>
+   <name>Snow Shovel, Basic 22 inch</name>
+   <quantity>3</quantity>
+   <price>9.99</price>
+  </item>
+  <item>
+   <partid>100-101-01</partid>
+   <name>Snow Shovel, Deluxe 24 inch</name>
+   <quantity>5</quantity>
+   <price>19.99</price>
+  </item>
+  <item>
+   <partid>100-201-01</partid>
+   <name>Ice Scraper, Windshield 4 inch</name>
+   <quantity>5</quantity>
+   <price>3.99</price>
+  </item>
+ </PurchaseOrder>
+ <PurchaseOrder PoNum="5003" OrderDate="2005-02-28" Status="UnShipped">
+  <item>
+   <partid>100-100-01</partid>
+   <name>Snow Shovel, Basic 22 inch</name>
+   <quantity>1</quantity>
+   <price>9.99</price>
+  </item>
+ </PurchaseOrder>
+ <PurchaseOrder PoNum="5004" OrderDate="2005-11-18" Status="Shipped">
+  <item>
+   <partid>100-100-01</partid>
+   <name>Snow Shovel, Basic 22 inch</name>
+   <quantity>4</quantity>
+   <price>9.99</price>
+  </item>
+  <item>
+   <partid>100-103-01</partid>
+   <name>Snow Shovel, Super Deluxe 26 inch</name>
+   <quantity>2</quantity>
+   <price>49.99</price>
+  </item>
+ </PurchaseOrder>
+ <PurchaseOrder PoNum="5006" OrderDate="2006-03-01" Status="Shipped">
+  <item>
+   <partid>100-100-01</partid>
+   <name>Snow Shovel, Basic 22 inch</name>
+   <quantity>3</quantity>
+   <price>9.99</price>
+  </item>
+  <item>
+   <partid>100-101-01</partid>
+   <name>Snow Shovel, Deluxe 24 inch</name>
+   <quantity>5</quantity>
+   <price>19.99</price>
+  </item>
+  <item>
+   <partid>100-201-01</partid>
+   <name>Ice Scraper, Windshield 4 inch</name>
+   <quantity>5</quantity>
+   <price>3.99</price>
+  </item>
+ </PurchaseOrder>
+</PurchaseOrders>

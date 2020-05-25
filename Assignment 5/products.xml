@@ -1,0 +1,34 @@
+<products>
+ <product pid="100-101-01">
+  <description>
+   <name>Snow Shovel, Deluxe 24 inch</name>
+   <details>A Deluxe Snow Shovel, 24 inches wide, ergonomic curved handle with D-Grip</details>
+   <price>19.99</price>
+   <weight>2 kg</weight>
+  </description>
+ </product>
+ <product pid="100-103-01">
+  <description>
+   <name>Snow Shovel, Super Deluxe 26 inch</name>
+   <details>Super Deluxe Snow Shovel, 26 inches wide, ergonomic battery heated curved handle with
+    upgraded D-Grip</details>
+   <price>49.99</price>
+   <weight>3 kg</weight>
+  </description>
+ </product>
+ <product pid="100-201-01">
+  <description>
+   <name>Ice Scraper, Windshield 4 inch</name>
+   <details>Basic Ice Scraper 4 inches wide, foam handle</details>
+   <price>3.99</price>
+  </description>
+ </product>
+ <product pid="100-100-01">
+  <description>
+   <name>Snow Shovel, Basic 22 inch</name>
+   <details>Basic Snow Shovel, 22 inches wide, straight handle with D-Grip</details>
+   <price>9.99</price>
+   <weight>1 kg</weight>
+  </description>
+ </product>
+</products>

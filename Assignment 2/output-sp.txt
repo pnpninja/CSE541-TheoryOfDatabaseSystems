@@ -1,0 +1,10 @@
+[db2inst1@db2server ~]$ db2 -td@ -f /SalaryStdDev.sql 
+DB20000I  The SQL command completed successfully.
+
+
+  Value of output parameters
+  --------------------------
+  Parameter Name  : STDDEV
+  Parameter Value : 23594.3454
+
+  Return Status = 0

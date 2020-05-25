@@ -1,0 +1,75 @@
+<customers>
+ <customerinfo Cid="1000">
+  <name>Kathy Smith</name>
+  <addr country="Canada">
+   <street>5 Rosewood</street>
+   <city>Toronto</city>
+   <prov-state>Ontario</prov-state>
+   <pcode-zip>M6W 1E6</pcode-zip>
+  </addr>
+  <phone type="work">416-555-1358</phone>
+ </customerinfo>
+ <customerinfo Cid="1001">
+  <name>Kathy Smith</name>
+  <addr country="Canada">
+   <street>25 EastCreek</street>
+   <city>Markham</city>
+   <prov-state>Ontario</prov-state>
+   <pcode-zip>N9C 3T6</pcode-zip>
+  </addr>
+  <phone type="work">905-555-7258</phone>
+ </customerinfo>
+ <customerinfo Cid="1002">
+  <name>Jim Noodle</name>
+  <addr country="Canada">
+   <street>25 EastCreek</street>
+   <city>Markham</city>
+   <prov-state>Ontario</prov-state>
+   <pcode-zip>N9C 3T6</pcode-zip>
+  </addr>
+  <phone type="work">905-555-7258</phone>
+ </customerinfo>
+ <customerinfo Cid="1003">
+  <name>Robert Shoemaker</name>
+  <addr country="Canada">
+   <street>1596 Baseline</street>
+   <city>Aurora</city>
+   <prov-state>Ontario</prov-state>
+   <pcode-zip>N8X 7F8</pcode-zip>
+  </addr>
+  <phone type="work">905-555-7258</phone>
+  <phone type="home">416-555-2937</phone>
+  <phone type="cell">905-555-8743</phone>
+  <phone type="cottage">613-555-3278</phone>
+ </customerinfo>
+ <customerinfo Cid="1004">
+  <name>Matt Foreman</name>
+  <addr country="Canada">
+   <street>1596 Baseline</street>
+   <city>Toronto</city>
+   <prov-state>Ontario</prov-state>
+   <pcode-zip>M3Z 5H9</pcode-zip>
+  </addr>
+  <phone type="work">905-555-4789</phone>
+  <phone type="home">416-555-3376</phone>
+  <assistant>
+   <name>Gopher Runner</name>
+   <phone type="home">416-555-3426</phone>
+  </assistant>
+ </customerinfo>
+ <customerinfo Cid="1005">
+  <name>Larry Menard</name>
+  <addr country="Canada">
+   <street>223 NatureValley Road</street>
+   <city>Toronto</city>
+   <prov-state>Ontario</prov-state>
+   <pcode-zip>M4C 5K8</pcode-zip>
+  </addr>
+  <phone type="work">905-555-9146</phone>
+  <phone type="home">416-555-6121</phone>
+  <assistant>
+   <name>Goose Defender</name>
+   <phone type="home">416-555-1943</phone>
+  </assistant>
+ </customerinfo>
+</customers>
